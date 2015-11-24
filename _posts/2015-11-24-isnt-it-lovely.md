@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Not sure what to write here
-datePublished: '2015-11-24T10:02:30.142Z'
-dateModified: '2015-11-24T10:02:19.036Z'
+datePublished: '2015-11-24T10:04:27.311Z'
+dateModified: '2015-11-24T10:04:21.933Z'
 title: "Isn't it lovely"
 author: []
 sourcePath: _posts/2015-11-24-isnt-it-lovely.md
@@ -22,4 +22,6 @@ url: isnt-it-lovely/index.html
 _type: Article
 
 ---
-So here we have an image that i want to publish.
+So here we have an image that i want to publish. [Now, let's see][0]
+
+[0]: /Users/marmus/Documents/LBi/management/presentations/assets
