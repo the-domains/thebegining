@@ -1,7 +1,7 @@
 name: TheBegining
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.6223788897041231
+layout_spectrum: 0.94134
+typography_spectrum: 0.2432
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#6b645e'
     - '#443a31'
     - '#c4c4c2'
-  brandStrength: 0.625
-  lightness: 0.6623993017710745
-  saturation: 0.9222953356802464
-  rhythmicContrast: 0.7574514602310956
+  brandStrength: 0.125
+  lightness: 0.3125
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
