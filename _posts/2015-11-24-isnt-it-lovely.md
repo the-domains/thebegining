@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Not sure what to write here
-datePublished: '2015-11-24T10:53:47.071Z'
-dateModified: '2015-11-24T10:53:17.305Z'
+datePublished: '2015-11-24T11:07:03.065Z'
+dateModified: '2015-11-24T11:06:39.637Z'
 title: "Now. I can't seem to view this site anywhere. What is going on? Anyhow, i will now make this bigger (i think). Oh yes, but the whole things turned large. what about the word i highlighted?"
 author: []
 sourcePath: _posts/2015-11-24-isnt-it-lovely.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: isnt-it-lovely/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 So here we have an image that i want to publish. [Now, let's see][0] if this links to an image. Not sure it does but this is how to add an image. 
