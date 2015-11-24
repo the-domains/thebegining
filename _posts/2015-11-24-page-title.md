@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: page description - now edited
-datePublished: '2015-11-24T11:06:54.077Z'
-dateModified: '2015-11-24T11:06:50.927Z'
+datePublished: '2015-11-24T11:21:00.808Z'
+dateModified: '2015-11-24T11:20:33.853Z'
 author: []
 title: 'Page title - now changed again '
 sourcePath: _posts/2015-11-24-page-title.md
