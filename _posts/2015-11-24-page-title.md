@@ -6,11 +6,11 @@ isBasedOnUrl: 'http://www.wallpapereast.com/static/images/skull-wallpaper-3.jpg'
 inLanguage: null
 starred: false
 keywords: []
-description: page description
-datePublished: '2015-11-24T10:58:12.176Z'
-dateModified: '2015-11-24T10:57:41.513Z'
+description: page description - now edited
+datePublished: '2015-11-24T10:59:10.213Z'
+dateModified: '2015-11-24T10:59:08.352Z'
 author: []
-title: Page title
+title: Page title - now changed
 sourcePath: _posts/2015-11-24-page-title.md
 published: true
 authors: []
