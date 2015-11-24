@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Not sure what to write here
-datePublished: '2015-11-24T09:59:42.624Z'
-dateModified: '2015-11-24T09:59:15.780Z'
+datePublished: '2015-11-24T10:02:30.142Z'
+dateModified: '2015-11-24T10:02:19.036Z'
 title: "Isn't it lovely"
 author: []
+sourcePath: _posts/2015-11-24-isnt-it-lovely.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-24-isnt-it-lovely.md
-published: true
 url: isnt-it-lovely/index.html
 _type: Article
 
