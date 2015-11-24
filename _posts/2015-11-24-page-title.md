@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: page description - now edited
-datePublished: '2015-11-24T11:01:05.298Z'
-dateModified: '2015-11-24T11:01:03.747Z'
+datePublished: '2015-11-24T11:06:05.792Z'
+dateModified: '2015-11-24T11:06:01.895Z'
 author: []
-title: Page title - now changed
+title: 'Page title - now changed again '
 sourcePath: _posts/2015-11-24-page-title.md
 published: true
 authors: []
