@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: page description
-datePublished: '2015-11-24T10:50:42.801Z'
-dateModified: '2015-11-24T10:50:09.899Z'
+datePublished: '2015-11-24T10:58:12.176Z'
+dateModified: '2015-11-24T10:57:41.513Z'
 author: []
 title: Page title
+sourcePath: _posts/2015-11-24-page-title.md
+published: true
 authors: []
 publisher:
   name: wallpapereast.com
   domain: www.wallpapereast.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-24-page-title.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
@@ -27,11 +27,13 @@ _type: Article
 
 > ok, so now we have our cool image.
 > 
-> **if we now add something else.**
+> **[if we now add something else][0].**
 > 
 > ****
 > 
-> _After my obvious immediate reaction, this made me think: what's it like to be Prime Minister such that this could even be an issue? It must be ghastly to be moved from one thing to the next at such a pace and with such a penalty for the slightest slip._
+> ****
+> 
+> After my obvious immediate reaction, this made me think: what's it like to be Prime Minister such that this could even be an issue? It must be ghastly to be moved from one thing to the next at such a pace and with such a penalty for the slightest slip.
 > 
 > "It suddenly occurred to me," he replied, "that the Prime Minister might not have been briefed to move the mouse pointer over the link before clicking it." So that's what he'd done: move the mouse pointer so it was definitely pointing at the link.
 > 
@@ -77,7 +79,7 @@ _type: Article
 > 
 > _In modern government, ministers have the responsibility but none of the expertise. The same is often true in the corporate world; in government the glare of scrutiny seems to make it worse._
 > 
-> _When did we last have a Secretary of Defence with military experience?_[_Tom King, 1989--92, who at least did National Servic_][0]_e. When did we last have a Secretary of State for Health with medical experience?_[_Walter Elliot, 1938--40, who studied science and medicine and became an army medical officer in World War I_][1]_._
+> _When did we last have a Secretary of Defence with military experience?_[_Tom King, 1989--92, who at least did National Servic_][1]_e. When did we last have a Secretary of State for Health with medical experience?_[_Walter Elliot, 1938--40, who studied science and medicine and became an army medical officer in World War I_][2]_._
 > 
 > _Whenever I've told this story, the reaction has been similar: the minister behaved foolishly with his knee-jerk responses. That is certainly how it felt at the time. Later, I wondered whether it was a tactic to filter advice by launching an attack on the advisor and seeing whether he or she crumbles. Clearly that conflates an assessment of the advisor and the advice, but it might be better than nothing._
 > 
@@ -107,5 +109,6 @@ _type: Article
 
 
 
-[0]: https://en.wikipedia.org/wiki/Tom_King,_Baron_King_of_Bridgwater
-[1]: https://en.wikipedia.org/wiki/Walter_Elliot_%28Scottish_politician%29
+[0]: null
+[1]: https://en.wikipedia.org/wiki/Tom_King,_Baron_King_of_Bridgwater
+[2]: https://en.wikipedia.org/wiki/Walter_Elliot_%28Scottish_politician%29
