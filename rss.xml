@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TheBegining]]></title>
-        <description><![CDATA[TheBegining]]></description>
+        <title><![CDATA[Site title by me]]></title>
+        <description><![CDATA[Site title by me]]></description>
         <link>https://thegrid.ai/thebegining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 10:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 10:58:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebegining/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Page title]]></title>
             <description><![CDATA[<article><h1>Page title</h1><p>page description</p><img src="http://www.wallpapereast.com/static/images/skull-wallpaper-3.jpg"></article>]]></description>
             <link>http://www.wallpapereast.com/static/images/skull-wallpaper-3.jpg</link>
             <guid isPermaLink="false">041ae449-8fa1-44d6-a8f5-ec90f04c8e8d</guid>
-            <pubDate>Tue, 24 Nov 2015 10:50:42 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 10:58:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
