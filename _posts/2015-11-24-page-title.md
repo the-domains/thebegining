@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.wallpapereast.com/static/images/skull-wallpaper-3.jpg'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: page description - now edited
-datePublished: '2015-11-24T10:59:10.213Z'
-dateModified: '2015-11-24T10:59:08.352Z'
+datePublished: '2015-11-24T11:01:05.298Z'
+dateModified: '2015-11-24T11:01:03.747Z'
 author: []
 title: Page title - now changed
 sourcePath: _posts/2015-11-24-page-title.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.wallpapereast.com
   url: null
   favicon: null
+url: page-title-now-changed/index.html
 _context: 'http://schema.org'
 _type: Article
 
