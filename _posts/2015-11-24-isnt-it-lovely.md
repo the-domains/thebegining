@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Not sure what to write here
-datePublished: '2015-11-24T10:04:27.311Z'
-dateModified: '2015-11-24T10:04:21.933Z'
+datePublished: '2015-11-24T10:05:48.962Z'
+dateModified: '2015-11-24T10:05:42.108Z'
 title: "Isn't it lovely"
 author: []
 sourcePath: _posts/2015-11-24-isnt-it-lovely.md
@@ -22,6 +22,6 @@ url: isnt-it-lovely/index.html
 _type: Article
 
 ---
-So here we have an image that i want to publish. [Now, let's see][0]
+So here we have an image that i want to publish. [Now, let's see][0] if this links to an image
 
 [0]: /Users/marmus/Documents/LBi/management/presentations/assets
