@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Not sure what to write here
-datePublished: '2015-11-24T10:29:26.234Z'
-dateModified: '2015-11-24T10:28:07.370Z'
+datePublished: '2015-11-24T10:33:21.148Z'
+dateModified: '2015-11-24T10:32:54.544Z'
 title: "Now. I can't seem to view this site anywhere. What is going on? Anyhow, i will now make this bigger (i think). Oh yes, but the whole things turned large. what about the word i highlighted?"
 author: []
 sourcePath: _posts/2015-11-24-isnt-it-lovely.md
