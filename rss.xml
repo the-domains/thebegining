@@ -4,7 +4,7 @@
         <description><![CDATA[Site title by me]]></description>
         <link>https://thegrid.ai/thebegining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 11:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 11:08:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebegining/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/thebegining/28f4491c-5dba-4cb5-bf71-7553a041f0ea/index.html</link>
             <guid isPermaLink="false">28f4491c-5dba-4cb5-bf71-7553a041f0ea</guid>
             <pubDate>Tue, 24 Nov 2015 11:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Page title - now changed again ]]></title>
-            <description><![CDATA[<article><h1>Page title - now changed again </h1><p>page description - now edited</p><img src="http://www.wallpapereast.com/static/images/skull-wallpaper-3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thebegining/page-title-now-changed/index.html</link>
-            <guid isPermaLink="false">041ae449-8fa1-44d6-a8f5-ec90f04c8e8d</guid>
-            <pubDate>Tue, 24 Nov 2015 11:06:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
